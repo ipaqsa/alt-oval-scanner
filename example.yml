@@ -1,0 +1,4 @@
+BranchesUrl: https://rdb.altlinux.org/api/errata/export/oval/branches
+BaseUrl: https://rdb.altlinux.org/api/errata/export/oval/%s
+PathToDB: test.db
+PathToTmpDir: .
